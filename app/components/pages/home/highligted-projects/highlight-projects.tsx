@@ -12,6 +12,7 @@ export const HighlightProjects = () => {
         <ProjectCard />
         <HorizontalDivider className="my-16" />
         <ProjectCard />
+        <HorizontalDivider className="my-16" />
       </div>
     </section>
   );
