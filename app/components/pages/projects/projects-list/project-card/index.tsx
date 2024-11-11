@@ -14,7 +14,7 @@ export const ProjectCard = () => {
         />
       </div>
 
-      <div className="flex-1 flex flex-col">
+      <div className="flex-1 flex flex-col p-8">
         <strong className="font-medium text-gray-50/90 group-hover:text-emerald-500 transition-all">
           Projeto 1
         </strong>
